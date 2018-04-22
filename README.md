@@ -1,4 +1,4 @@
-# urxvtpassx
+# urxvtpass
 This extension integrates with 'pass' and 'zenity' to select and copy passwords to clipboar
 It is useful when using the password manager in a virtualized environment, where copy-paste could be limited between hypervisor and VMs.
 Otherwise the passmenu dmenu wrapper included with pass is recommended for easier access.
